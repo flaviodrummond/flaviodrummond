@@ -10,19 +10,24 @@ Flávio Drumond</a> :facepunch:</h1>
 - 📫 How to reach me: *flaviosax20@gmail.com*.
 
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"/>&nbsp;Connect with me
+<h2 align="center" > Connect with me
+  <p>
+  <a href="https://www.instagram.com/flaviodrummond_/">
+<img align="center" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+    <a href="https://www.linkedin.com/in/flaviodrumonnd/">
+<img align="center" alt="LinkedIn" width="26px" src="https://clipground.com/images/linkedin-clipart-vector-7.png" />
+</a>
+    <br>
+    <br>
+    
+    
+ | My statistic                                                                                                                                                            | Main languages                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=FlavioDrummond&show_icons=true&theme=transparent) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioDrummond) |
 
-<!--
-**flaviodrummond/flaviodrummond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+ <div align="center">
