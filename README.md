@@ -7,7 +7,7 @@ Flávio Drumond</a> :facepunch:</h1>
 - 🌱 I've been dedicated to ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; and starting ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react).
 - 🌱 Currently learning front-end at DevClub.
 - 🤝 I’m available for freelancing.
-- 📫 How to reach me: *flaviosax20@gmail.com*.
+- 📫 How to reach me: *flaviodrumonnd@gmail.com*.
 
 <br/>
 <h2 align="center" > Connect with me
