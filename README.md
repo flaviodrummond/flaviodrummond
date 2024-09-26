@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=flaviodrummond&color=red)
+
 <h1 align="center">Hi there <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="28"/>, I'm 
 
 Flávio Drumond</a> :facepunch:</h1>
