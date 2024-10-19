@@ -30,9 +30,7 @@ Flávio Drumond</a> :facepunch:</h1>
 </a>
     <br>
     <br>
-    
-    
-<img src="https://raw.githubusercontent.com/flaviodrumonnd/flaviodrumonnd/output/snake.svg" alt="Snake animation" />
+  
 
 
  | My statistic                                                                                                                                                            | Main languages                                                                                                                                                                     |
