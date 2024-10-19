@@ -35,7 +35,7 @@ Flávio Drumond</a> :facepunch:</h1>
 
  | My statistic                                                                                                                                                            | Main languages                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviodrumonnd_icons=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviodrummond) |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviodrumonnd&icons=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviodrummond) |
 
 
 
