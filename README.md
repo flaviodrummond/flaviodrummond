@@ -34,7 +34,7 @@ Flávio Drumond</a> :facepunch:</h1>
     
  | My statistic                                                                                                                                                            | Main languages                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=FlavioDrummond&show_icons=true&theme=transparent) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioDrummond) |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=flaviodrummond&show_icons=true&theme=transparent) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviodrummond) |
 
 
 
