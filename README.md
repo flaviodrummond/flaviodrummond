@@ -30,16 +30,5 @@ Flávio Drumond</a> :facepunch:</h1>
 </a>
     <br>
     <br>
-  
-
-
- | My statistic                                                                                                                                                            | Main languages                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviodrummond&show_icons=true&theme=dark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviodrummond) |
-
-
-
-
-
 
  <div align="center">
